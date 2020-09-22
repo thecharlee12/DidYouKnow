@@ -1,9 +1,9 @@
-# DidYouKnow, the discord bot  
+# Did You Know?, the discord bot  
 
 "Did You Know?" is a nifty bot with a variety of functions. In addition to it's trivia-basis, it also offers a host of other fun games and quizzes. It also has a full blown economy system along with a global leaderboard in which you can compete with the best. Want to learn something new? Use our `?fact` command to generate all kinds of factoids.  
 
 ## System  
-![Discord](https://img.shields.io/discord/705481089338310757) 
+[![Discord](https://img.shields.io/discord/705481089338310757?label=discord)](https://discord.gg/MhybDUq)
 
 ## Listing Badges  
 [![Discord Bots](https://top.gg/api/widget/701510083133309039.svg)](https://top.gg/bot/701510083133309039)  
